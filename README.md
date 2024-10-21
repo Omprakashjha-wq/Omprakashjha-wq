@@ -1,4 +1,4 @@
-## 👋I'm a passionate Data Analyst with a background in Data Science and a deep interest in the stock market, algorithmic trading, and machine learning. I’m constantly learning and applying new technologies to solve real-world problems. I believe in self-improvement and enjoy working on projects that challenge my skills and creativity.
+## 👋I'm a passionate Business Analyst with a background in Data Analysis and a deep interest in the Airtificial Inteligence, and machine learning. I’m constantly learning and applying new technologies to solve real-world problems. I believe in self-improvement and enjoy working on projects that challenge my skills and creativity.
 
 - 👀 I’m interested in **Data Science**, **Machine Learning**, **Deep Learning**, **Artificial Intelligence (AI)** and **Reinforcement Learning**
 - 🌱 I’ve completed my Course recently where I have learnt **Machine Learning (ML)**, **Deep Learning (DL)**, **Artificial Intelligence (AI)**, and **Reinforcement Learning (RL)**
